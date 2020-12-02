@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-03T01:05:42.638024+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 8f9f72200dfd50e9272f562aeb5c91b3381f0f02d8372c58ca58447d04519403
+    name: app1
+    type: application
+    urls:
+    - https://github.com/maitho/Helm-Chart-Repo/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-03T01:05:42.958078+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0b490a91ed642481c970b80bf2382452ac4ab060482751b327cce4b140dabf6b
+    name: app2
+    type: application
+    urls:
+    - https://github.com/maitho/Helm-Chart-Repo/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-03T01:05:41.915963+03:00"
